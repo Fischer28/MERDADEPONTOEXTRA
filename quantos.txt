@@ -1,0 +1,2 @@
+Primos: 136
+Impares: 282

@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1527041344 source:c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+	"alocacao.h"
+	"testando.h"
+
+1527020009 c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\arquivo.h
+
+1527018929 source:c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\testando.c
+	<stdio.h>
+	<stdlib.h>
+
+1527023785 source:c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\alocacao.c
+	<stdio.h>
+	<stdlib.h>
+	"alocacao.h"
+
+1527018929 c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\alocacao.h
+
+1527021206 source:c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alocacao.h"
+	"arquivo.h"
+	"testando.h"
+
+1527018929 c:\users\leofi\desktop\tecprog\projeto1\ponto_extra\testando.h
+
+1527082837 source:c:\users\leofi\desktop\prog1\projeto1\ponto_extra\alocacao.c
+	<stdio.h>
+	<stdlib.h>
+	"alocacao.h"
+
+1527018929 c:\users\leofi\desktop\prog1\projeto1\ponto_extra\alocacao.h
+
+1527082678 source:c:\users\leofi\desktop\prog1\projeto1\ponto_extra\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+	"alocacao.h"
+	"testando.h"
+
+1527020009 c:\users\leofi\desktop\prog1\projeto1\ponto_extra\arquivo.h
+
+1527018929 c:\users\leofi\desktop\prog1\projeto1\ponto_extra\testando.h
+
+1527021206 source:c:\users\leofi\desktop\prog1\projeto1\ponto_extra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alocacao.h"
+	"arquivo.h"
+	"testando.h"
+
+1527018929 source:c:\users\leofi\desktop\prog1\projeto1\ponto_extra\testando.c
+	<stdio.h>
+	<stdlib.h>
+
